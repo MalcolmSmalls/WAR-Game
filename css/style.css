@@ -15,6 +15,25 @@ img{
   margin: 0 auto;
 }
 
+body {
+  background:black;
+  color:white;
+}
+
+button {
+  display:block;
+  margin:10px auto;
+}
+
+.newGame {
+  
+}
+
+h1 {
+  text-align:center;
+  margin:20px auto;
+  font-size:100px;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
